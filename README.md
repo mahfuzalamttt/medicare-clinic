@@ -32,6 +32,7 @@ A web-based clinic management system built with HTML, CSS, JavaScript, and Fireb
       -Receptionist: receptionist@clinic.com, Password: receptionist123
 
 5. Run Locally
+   
    -Open http://127.0.0.1:8080 in your browser.
 
 ## Usage
