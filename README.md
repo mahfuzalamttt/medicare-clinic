@@ -25,13 +25,13 @@ A web-based clinic management system built with HTML, CSS, JavaScript, and Fireb
    -Create a Firebase project at console.firebase.google.com.
    -Enable Authentication (Email/Password) and Firestore.
    -Create js/config.js with your Firebase config (do not upload)
-4. Set Up Test Users
+5. Set Up Test Users
 
    -Firebase Console > Authentication > Users > Add User:
       -Doctor: doctor@clinic.com, Password: doctor123
       -Receptionist: receptionist@clinic.com, Password: receptionist123
 
-5. Run Locally
+6. Run Locally
    
    -Open http://127.0.0.1:8080 in your browser.
 
