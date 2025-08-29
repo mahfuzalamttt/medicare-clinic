@@ -43,14 +43,14 @@ A web-based clinic management system built with HTML, CSS, JavaScript, and Fireb
 
 ## Project Structure
 
-  -index.html: Main HTML file.
-  -css/styles.css: Styles.
-  -js/:
-    -app.js: Firebase init and events.
-    -auth.js: Authentication.
-    -patients.js: Patient management.
-    -tokens.js: Token management.
-    -activities.js: Activity tracking.
-    -utils.js: Utilities.
-    -config.js: Firebase config (local only).
-  -.gitignore: Excludes js/config.js.
+     -index.html: Main HTML file.
+     -css/styles.css: Styles.
+     -js/:
+       -app.js: Firebase init and events.
+       -auth.js: Authentication.
+       -patients.js: Patient management.
+       -tokens.js: Token management.
+       -activities.js: Activity tracking.
+       -utils.js: Utilities.
+       -config.js: Firebase config (local only).
+     -.gitignore: Excludes js/config.js.
