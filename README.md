@@ -34,14 +34,14 @@ A web-based clinic management system built with HTML, CSS, JavaScript, and Fireb
 5. Run Locally
    -Open http://127.0.0.1:8080 in your browser.
 
-##Usage
+## Usage
     -Log in with receptionist@clinic.com/receptionist123 or doctor@clinic.com/doctor123.
     -Manage patients in the "Patients" tab.
     -Generate tokens manually in the "Tokens" tab (receptionists only).
     -View dashboard and recent activities in the "Overview" tab.
     -Log out when done.
 
-##Project Structure
+## Project Structure
 
   -index.html: Main HTML file.
   -css/styles.css: Styles.
